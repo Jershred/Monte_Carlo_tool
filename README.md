@@ -1,4 +1,4 @@
-# Monte Carlo Simulation Code Readme
+# Monte Carlo Simulation Code
 
 **Author**: Jérémy Archier
 
