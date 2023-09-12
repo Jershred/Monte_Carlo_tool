@@ -57,7 +57,3 @@ This code is based on Monte Carlo simulation techniques and utilizes libraries s
 - NumPy: [https://numpy.org/doc/stable/](https://numpy.org/doc/stable/)
 - Matplotlib: [https://matplotlib.org/stable/users/index.html](https://matplotlib.org/stable/users/index.html)
 - SciPy: [https://docs.scipy.org/doc/scipy/reference/](https://docs.scipy.org/doc/scipy/reference/)
-
-## License
-
-This code is provided under the MIT License. You are free to use, modify, and distribute it as needed.
